@@ -1,0 +1,49 @@
+#Permits data
+- Application No: 18-228 (Year-increments)
+* Address
+	- Sitio-prk
+	- Barangay
+	- Municipality
+	- Province
+	- island
+- owner name
+- Business name
+- date filed
+- OR numbers
+- date issues(OR)
+- date issued( Permit)
+- Commercial Type(EG. Sand and Gravel, Limestone)
+- Cubic meters
+
+- renewal period(years of validity - Auto selected per permit type)
+- date of renewal( Expiration )
+- Geo Location
+- area image
+
+#OTP - (Multiple Generation - Separated Table)
+- OTP No. (Year-Month-Incremets)
+- Permittee Name - BusinessName (Reused data)
+- SSM no. (Permit No)
+- tax Acc Number
+- Buyer's Name
+- Commodity(Mineral Ore, Mineral Products)
+- Volume\Tonnage
+- Value(Php)
+- excise Tax(Php)
+- Source(Address of source)
+- Destination
+- Date Issued
+- Expiry Date
+
+- OR number
+- Amount Paid
+- date paid(Auto Generated)
+
+* Assumption
+	- Gold price
+	- forex
+
+#Small Scale Mining ( Additional Data )
+- Total Hectares
+- TIN#
+- Contact
